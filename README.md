@@ -118,4 +118,4 @@ The results are intended for educational purposes and should not be interpreted 
 
 Python Developer | Data Analysis Enthusiast
 
-GitHub: Add your GitHub profile URL here
+GitHub: https://github.com/kousalyas08/job-applicants-analysis
