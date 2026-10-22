@@ -1,0 +1,501 @@
+Candidate_ID,Gender,Education,Experience_Years,Skills,Aptitude_Score,Interview_Score,Hiring_Status,Age,City,Graduation_Year,Certification,Communication_Score,Coding_Score,Expected_Salary_LPA,Notice_Period_Days,Internship_Experience,Applied_Role
+C1001,Female,,10,"Excel, SQL",55,3,Selected,21.0,Chennai,2025.0,Django,9.0,70.0,8.7,7.0,No,
+C1002,,BCA,0,"HTML, CSS, JavaScript",84,9,Reject,28.0,Mumbai,2024.0,AWS,1.0,10.0,11.6,90.0,No,Python Developer
+C1003, male,M.Tech,,Java,40,6,Rejected,27.0,Mysuru,2023.0,AWS,4.0,76.0,5.7,0.0,No,Software Tester
+C1004,Female,MBA,6,Java,64,1,Hire,25.0,Delhi,2025.0,Power BI,5.0,11.0,6.3,15.0,No,Software Tester
+C1005, male,MCA,4,Java,66,2,selected,25.0,Hyderabad,2019.0,,8.0,6.0,10.1,60.0,Yes,Data Analyst
+C1006,FEMALE,Diploma,1,"Python, Pandas",66,6,Rejected,29.0,Coimbatore,2026.0,AWS,2.0,12.0,7.1,90.0,Yes,Full Stack Developer
+C1007, male,Diploma,9,"Python, Django",51,7,Selected,21.0,Coimbatore,2025.0,,5.0,46.0,9.4,7.0,Yes,Web Developer
+C1008,female,BCA,,"Python, Pandas",71,0,,27.0,Hyderabad,2022.0,Java,2.0,62.0,6.6,30.0,No,Backend Developer
+C1009,,,6,"Excel, SQL",53,9,Not Selected,23.0,Hyderabad,2024.0,"Python, SQL",8.0,41.0,4.2,7.0,Yes,Backend Developer
+C1010,Other,Diploma,3,"Excel, SQL",31,2,Reject,21.0,Hyderabad,2022.0,Excel,7.0,13.0,9.5,0.0,No,Data Analyst
+C1011,Male, Diploma ,1,,79,,Rejected,26.0,Mysuru,2020.0,Power BI,5.0,20.0,3.3,15.0,Yes,Backend Developer
+C1012,Male,MCA,8,Data Analysis,63,7,On Hold,30.0,Kochi,2025.0,AWS,4.0,86.0,4.0,90.0,No,Python Developer
+C1013,Other,M.Tech,,python,,9,On Hold,28.0,Delhi,2020.0,None,2.0,97.0,8.3,60.0,Yes,Software Tester
+C1014,female,MCA,-1,"Python, SQL",20,8,Selected,28.0,,2020.0,Power BI,,76.0,9.5,15.0,No,Full Stack Developer
+C1015,Other,B.Sc,-1,"Python, Pandas",30,good,,28.0,Mysuru,2022.0,AWS,7.0,11.0,10.9,7.0,No,Software Tester
+C1016, male,MCA,8,"Excel, SQL",97,0,Not Selected,28.0,Bengaluru,2025.0,,4.0,82.0,4.7,0.0,No,Full Stack Developer
+C1017, male,,7,"Python, SQL",51,6,Selected,26.0,Delhi,2021.0,Java,5.0,70.0,3.1,7.0,Yes,Python Developer
+C1018,Female,b.e.,1,"Python, SQL",49,,SELECTED,,Bengaluru,2022.0,Python,8.0,53.0,11.6,0.0,Yes,Web Developer
+C1019, male,Bachelor's,10,python,36,10,Pending,29.0,Coimbatore,2018.0,Java,8.0,15.0,3.5,7.0,No,Backend Developer
+C1020,Male,Diploma,3,"Python, Pandas",75,7,Rejected,25.0,Mumbai,2019.0,Java,,100.0,4.0,60.0,Yes,Software Tester
+C1003, male,M.Tech,,Java,40,6,Rejected,26.0,Pune,2018.0,"Python, SQL",4.0,45.0,4.9,0.0,No,Full Stack Developer
+C1022,Male,B.Tech,,python,29,9,selected,24.0,Chennai,2018.0,None,7.0,5.0,7.3,0.0,No,Web Developer
+C1023,Male,MBA,2,"Java, SQL",,1,,22.0,Chennai,2025.0,SQL,7.0,21.0,,30.0,No,Software Tester
+C1024,FEMALE,BCA,4,Python,91,8,Reject,30.0,Delhi,2025.0,SQL,6.0,41.0,9.6,7.0,No,Java Developer
+C1025,Other,B.E.,11,Data Analysis,60,10,Rejected,28.0,Hyderabad,2025.0,Excel,1.0,7.0,9.1,15.0,No,Full Stack Developer
+C1026,Male,,2,Java,50,10,Pending,27.0,Hyderabad,2018.0,Python,5.0,33.0,3.8,0.0,Yes,Python Developer
+C1027,female,BCA,10,"Java, SQL",110,4,Pending,25.0,Mysuru,2018.0,Power BI,7.0,47.0,5.6,7.0,Yes,Data Analyst
+C1028,Female,B.Tech,2,Data Analysis,78,2,selected,29.0,,2020.0,SQL,10.0,95.0,6.8,15.0,Yes,Python Developer
+C1029,Other,Bachelor's,8,"Python,SQL",,4,Hire,26.0,Mysuru,2023.0,Python,6.0,,3.5,60.0,Yes,Software Tester
+C1030,Female,B.Sc,11,"Java, SQL",87,9,Rejected,25.0,Mysuru,2021.0,,4.0,58.0,4.7,15.0,No,Data Analyst
+C1031, male,Diploma,1,"Python, Pandas",54,4,SELECTED,25.0,Mumbai,2022.0,Python,6.0,92.0,5.1,30.0,Yes,Backend developer 
+C1032,Male,B.E.,8,"Python, Django",26,7,On Hold,23.0,Chennai,2019.0,Python,2.0,81.0,3.3,30.0,Yes,Backend Developer
+C1033,Female,B.Tech,10,,76,7,On Hold,21.0,Chennai,2024.0,,1.0,93.0,7.5,7.0,No,Java Developer
+C1034,FEMALE,M.Tech,,python,94,7,Selected,26.0,Hyderabad,2020.0,SQL,7.0,18.0,9.1,7.0,No,Data Analyst
+C1035,,,5,,33,,On Hold,29.0,Mumbai,2018.0,"Python, SQL",10.0,81.0,2.7,15.0,Yes,Python Developer
+C1036,female,MBA,25,PYTHON,,1,selected,21.0,,2024.0,Python,9.0,98.0,6.8,0.0,No,Data Analyst
+C1037, male,BCA,2,"Python,SQL",33,,,29.0,Coimbatore,2026.0,SQL,6.0,33.0,9.8,60.0,Yes,Full Stack Developer
+C1038,FEMALE,B.Tech,,python,49,4,SELECTED,29.0,Chennai,2018.0,SQL,1.0,50.0,9.5,30.0,No,Web Developer
+C1039,FEMALE,B.Sc,5,Machine Learning,88,1,SELECTED,23.0,Coimbatore,2021.0,None,10.0,54.0,10.2,7.0,No,Full Stack Developer
+C1040,Female,MBA,0,Machine Learning,64,6,selected,27.0,Bengaluru,2025.0,,5.0,50.0,6.5,15.0,No,Data Analyst
+C1041, male,M.Tech,0,"Excel, SQL",20,9,Rejected,,Kochi,2024.0,Java,3.0,29.0,10.2,7.0,No,Java Developer
+C1042,,M.Tech,10,"Excel, SQL",35,5,SELECTED,28.0,Bengaluru,2025.0,AWS,9.0,98.0,4.4,30.0,No,Data Analyst
+C1043,FEMALE,MBA,8,Data Analysis,68,3,Selected,28.0,Chennai,2021.0,Python,8.0,96.0,5.6,60.0,No,Java Developer
+C1044,Prefer not to say,Diploma,4,"Python, SQL",94,6,Hire,24.0,Chennai,2021.0,Django,8.0,39.0,3.8,0.0,No,Web Developer
+C1045,female,B.Tech,two,"Python,SQL",41,5,selected,21.0,,2024.0,AWS,3.0,81.0,6.7,15.0,Yes,Backend Developer
+C1046,Prefer not to say,,10,"Python,SQL",45,1,Rejected,30.0,Bengaluru,,Django,10.0,40.0,5.9,0.0,No,Java Developer
+C1047, male,B.Sc,two,"Python, Pandas",93,7,Selected,25.0,Pune,2020.0,Excel,5.0,80.0,4.4,15.0,No,Backend Developer
+C1048, male,B.Tech,two,"HTML, CSS, JavaScript",74,9,On Hold,29.0,Mumbai,2023.0,"Python, SQL",6.0,59.0,9.5,7.0,No,Software Tester
+C1049,,b.e.,12,"HTML, CSS, JavaScript",91,8,On Hold,27.0,Coimbatore,2024.0,Java,8.0,48.0,5.1,15.0,No,Java Developer
+C1050,Prefer not to say,Diploma,11,"Python, SQL",,5,SELECTED,28.0,,,Python,7.0,13.0,4.7,15.0,No,Full Stack Developer
+C1051,Female,B.Sc,1,SQL,50,,selected,28.0,Delhi,2022.0,AWS,2.0,66.0,3.3,7.0,Yes,Web Developer
+C1052,Prefer not to say,MBA,6,Python,47,7,selected,22.0,Pune,,"Python, SQL",4.0,33.0,6.4,15.0,,Data Analyst
+C1053,,Bachelor's,two,Python,110,,Not Selected,24.0,Delhi,2022.0,Django,4.0,22.0,5.0,60.0,Yes,Full Stack Developer
+C1054, male,Bachelor's,4,"Python, SQL",73,9,SELECTED,,Hyderabad,2026.0,Excel,10.0,20.0,5.7,60.0,No,Full Stack Developer
+C1055,Prefer not to say, B.Sc ,6,Machine Learning,63,7,Hire,25.0,Mysuru,2018.0,Java,8.0,99.0,4.4,0.0,No,Python Developer
+C1056,Prefer not to say,B.Sc,0,Python,23,7,SELECTED,21.0,Coimbatore,2026.0,SQL,4.0,11.0,9.6,15.0,Yes,Full Stack Developer
+C1057,,MCA,6,"Python,SQL",61,7,Rejected,26.0,Kochi,2022.0,"Python, SQL",8.0,80.0,11.3,90.0,Yes,Full Stack Developer
+C1058,Female,Diploma,0,Python,eighty,6,Selected,22.0,CHENNAI,,None,8.0,87.0,7.0,30.0,No,Backend Developer
+C1059,Female,,,"Python, SQL",99,3,,28.0,Delhi,2021.0,,4.0,4.0,8.4,7.0,No,
+C1060,Other,MCA,4,Java,41,2,Reject,27.0,Delhi,2020.0,"Python, SQL",5.0,59.0,10.7,30.0,No,Software Tester
+C1061, male,B.Tech,0,,68,4,SELECTED,30.0,Coimbatore,2024.0,AWS,9.0,58.0,12.0,0.0,Yes,Backend developer 
+C1062,female,B.Tech,,Data Analysis,92,6,Not Selected,28.0,Bengaluru,2024.0,N/A,6.0,36.0,8.1,0.0,,Software Tester
+C1063,Prefer not to say,B.Sc,,"Excel, SQL",33,6,On Hold,24.0,Coimbatore,2019.0,AWS,2.0,67.0,10.9,30.0,Yes,
+C1064,Prefer not to say,MBA,25,"Python,SQL",54,9,Reject,30.0,Chennai,2024.0,,8.0,41.0,11.1,30.0,Yes,Software Tester
+C1065,Prefer not to say,,,Machine Learning,31,8,Pending,25.0,Mysuru,2024.0,Django,6.0,44.0,9.9,60.0,No,Web Developer
+C1066,FEMALE,M.Tech,5,"Java, SQL",61,4,Reject,24.0,Hyderabad,2021.0,Java,6.0,44.0,6.6,15.0,Yes,Software Tester
+C1067,,Bachelor's,11,Data Analysis,110,2,selected,30.0,Hyderbad,,,8.0,81.0,2.8,90.0,No,Web Developer
+C1068, male,MBA,11,,82,1,selected,24.0,Hyderabad,2023.0,Excel,10.0,64.0,2.2,15.0,No,Python Developer
+C1069,female, M.Tech ,4,,80,6,,21.0,Mumbai,2021.0,,4.0,38.0,6.8,60.0,Yes,Python Developer
+C1070,Other,BCA,4,"Python, SQL",35,6,,25.0,Mumbai,2018.0,,5.0,93.0,6.9,0.0,Yes,Full Stack Developer
+C1071,FEMALE,BCA,4,"Python, Django",87,,On Hold,28.0,Mysuru,2024.0,Python,2.0,81.0,6.1,0.0,No,
+C1072,Other,Diploma,0,"Python,SQL",36,1,,22.0,Pune,2019.0,Power BI,7.0,94.0,7.7,60.0,Yes,Software Tester
+C1073,Male,MCA,1,"Python,SQL",80,6,,25.0,Hyderabad,2024.0,None,5.0,74.0,7.5,90.0,Yes,Data Analyst
+C1074,FEMALE,B.Tech,1,"Python, SQL",29,1,Rejected,22.0,Bengaluru,2022.0,"Python, SQL",4.0,40.0,10.4,90.0,Y,Backend Developer
+C1075,,Bachelor's,8,"HTML, CSS, JavaScript",96,4,SELECTED,27.0,Bengaluru,2022.0,SQL,7.0,78.0,3.1,7.0,No,Data Analyst
+C1076, male,Diploma,9,"Python, SQL",99,15,SELECTED,25.0,Pune,2019.0,Power BI,5.0,33.0,4.3,0.0,yes,Java Developer
+C1077,Prefer not to say,,10,"HTML, CSS, JavaScript",42,3,SELECTED,24.0,Hyderbad,2024.0,Django,5.0,28.0,9.9,90.0,Yes,Java Developer
+C1078, male,MCA,0,python,56,8,Reject,23.0,Coimbatore,2019.0,None,5.0,46.0,10.5,30.0,Yes,Python Developer
+C1079,FEMALE, B.Sc ,-1,Java,74,4,Selected,26.0,Mysuru,2021.0,SQL,3.0,97.0,11.9,7.0,Yes,Backend Developer
+C1080,FEMALE,MBA,2,"Java, SQL",-5,8,Hire,27.0,Bengaluru,2025.0,Excel,2.0,57.0,10.7,60.0,Yes,Web Developer
+C1081,FEMALE,B.E.,8,Java,96,7,selected,30.0,Bengaluru,2026.0,AWS,9.0,39.0,10.9,90.0,Yes,
+C1082,Other,Bachelor's,10,Data Analysis,eighty,5,,25.0,Delhi,2026.0,AWS,1.0,47.0,5.1,7.0,No,Web Developer
+C1083,Prefer not to say,M.Tech,25,"Excel, SQL ",75,15,Not Selected,22.0,Bengaluru,2026.0,Django,4.0,30.0,6.0,60.0,Yes,Backend developer 
+C1084,,b.e.,5,Python,40,8,,29.0,Bengaluru,2023.0,Java,7.0,66.0,4.7,60.0,No,Web Developer
+C1085,Male,Diploma,1,"Python,SQL",eighty,,Hire,27.0,Pune,2019.0,Excel,2.0,36.0,8.1,30.0,No,Web Developer
+C1086,Male,BCA,7,"Java, SQL",86,8,Hire,28.0,Mysuru,2025.0,Power BI,7.0,56.0,11.4,30.0,No,Java Developer
+C1087,Other,MCA,2,Data Analysis,82,10,Selected,21.0,Kochi,2025.0,"Python, SQL",8.0,37.0,5.4,7.0,Yes,Backend Developer
+C1088,Other,Bachelor's,8,,34,2,SELECTED,24.0,Bengaluru,2026.0,Python,7.0,33.0,7.6,90.0,Yes,python developer
+C1089,Other,MBA,8,"Python, SQL",eighty,4,Reject,28.0,Delhi,2023.0,"Python, SQL",4.0,98.0,5.0,90.0,No,Python Developer
+C1090,FEMALE,B.E.,,"Java, SQL",28,7,SELECTED,29.0,Delhi,2019.0,Python,1.0,35.0,3.7,90.0,Yes,Web Developer
+C1091,female,M.Tech,25,Data Analysis,,8,Hire,25.0,Delhi,2022.0,None,9.0,8.0,4.0,60.0,No,Full Stack Developer
+C1092, male,MBA,-1,Python,eighty,4,Not Selected,29.0,Mysuru,2022.0,Power BI,4.0,38.0,2.6,0.0,Yes,Java Developer
+C1093,Male,B.Sc,7,Data Analysis,68,3,Reject,29.0,Hyderabad,2025.0,Power BI,9.0,54.0,11.5,15.0,Yes,Python Developer
+C1094,Other,MBA,,"Python,SQL",76,8,On Hold,24.0,Mysuru,2021.0,Python,2.0,10.0,6.0,15.0,No,Full Stack Developer
+C1095,female,Diploma,7,"Python,SQL",53,7,Hire,29.0,Hyderabad,2020.0,None,2.0,31.0,,90.0,No,Web Developer
+C1096, male,Diploma,6,"PYTHON, PANDAS",,1,SELECTED,23.0,Delhi,2018.0,SQL,8.0,17.0,8.8,30.0,Yes,Data Analyst
+C1097,FEMALE,B.E.,3,Python,32,2,Not Selected,23.0,Mumbai,2025.0,Excel,10.0,51.0,3.9,30.0,No,Software Tester
+C1098,Other,B.Sc,12,SQL,67,4,Rejected,27.0,Delhi,2024.0,None,9.0,73.0,3.8,0.0,Yes,
+C1099,Prefer not to say, Diploma ,9,"Java, SQL",50,10,,27.0, bengaluru ,2018.0,"Python, SQL",8.0,97.0,10.1,60.0,No,Full Stack Developer
+C1013,Other,M.Tech,,python,,9,On Hold,22.0,Mumbai,2021.0,None,3.0,39.0,4.6,15.0,No,Java Developer
+C1101,Prefer not to say,B.Tech,10,"Python, SQL",,good,Pending,29.0,Mumbai,2022.0,Power BI,10.0,87.0,11.1,0.0,No,Web Developer
+C1102,Male,,9,,57,7,,22.0,Delhi,2022.0,None,,22.0,3.4,90.0,No,Web Developer
+C1103,FEMALE,Diploma,12,python,97,4,On Hold,29.0,Kochi,2026.0,"Python, SQL",2.0,79.0,8.8,7.0,Yes,Data Analyst
+C1104,female,B.Sc,two,Java,25,8,SELECTED,21.0,Chennai,2019.0,Power BI,2.0,57.0,10.1,0.0,No,Web Developer
+C1105,female,b.e.,5,Data Analysis,45,,SELECTED,28.0,Delhi,2020.0,SQL,9.0,76.0,4.4,0.0,,Python Developer
+C1106,female,B.Tech,two,"HTML, CSS, JavaScript",110,5,Rejected,28.0,Coimbatore,2019.0,"Python, SQL",3.0,76.0,4.8,15.0,Yes,Software Tester
+C1107,,B.E.,25,"Java, SQL",110,9,Hire,28.0,Hyderabad,2020.0,SQL,8.0,54.0,11.6,0.0,Yes,
+C1108, male,Bachelor's,1,Python,53,6,Reject,27.0,Coimbatore,2026.0,,2.0,26.0,4.6,90.0,Yes,Full Stack Developer
+C1109,FEMALE,Diploma,two,"Excel, SQL",48,0,Rejected,25.0,Mysuru,2026.0,AWS,3.0,53.0,6.3,30.0,No,Java Developer
+C1110,Other,MBA,-1,"HTML, CSS, JavaScript",eighty,2,Not Selected,28.0,Delhi,,SQL,3.0,,6.3,7.0,Yes,Data Analyst
+C1111,Female,Bachelor's,10,Machine Learning,89,,Pending,,Delhi,2023.0,None,3.0,98.0,4.5,0.0,Yes,Web Developer
+C1112,Female,Diploma,4,"Python, Django",47,,Hire,28.0,Coimbatore,2020.0,SQL,7.0,93.0,9.8,15.0,Yes,Software Tester
+C1113,Prefer not to say,B.Tech,10,"Python, Pandas",55,15,selected,26.0,Delhi,2019.0,Excel,10.0,19.0,9.7,0.0,No,Full Stack Developer
+C1114,Other,,10,"Python, SQL",22,6,Rejected,25.0,Pune,2020.0,Excel,10.0,60.0,5.8,90.0,No,Python Developer
+C1115,Other,,12,Python,47,4,SELECTED,26.0,Kochi,2019.0,Python,8.0,11.0,10.4,7.0,No,Data Analyst
+C1116,female,BCA,2,Machine Learning,42,1,Not Selected,26.0,Mumbai,2022.0,SQL,3.0,67.0,4.1,15.0,Yes,Data Analyst
+C1117,Female,Bachelor's,0,"HTML, CSS, JavaScript",36,9,Not Selected,21.0,Hyderabad,2026.0,None,10.0,100.0,2.0,0.0,Yes,Data Analyst
+C1118,FEMALE,Bachelor's,8,"Python, Pandas",84,10,Selected,22.0,Hyderabad,2023.0,Django,6.0,6.0,7.7,0.0,No,Web Developer
+C1119,Prefer not to say,B.Tech,,Java,74,8,Not Selected,23.0,Bengaluru,2024.0,SQL,6.0,66.0,11.9,7.0,No,Full Stack Developer
+C1120,female, MBA ,9,Machine Learning,55,10,Hire,22.0,Chennai,2022.0,,8.0,95.0,2.4,0.0,No,Python Developer
+C1121, male,MBA,4,"HTML, CSS, JavaScript",75,,selected,25.0,Pune,2018.0,AWS,8.0,85.0,4.1,60.0,No,Backend Developer
+C1122,female,Diploma,,"Java, SQL",71,2,Not Selected,27.0,Coimbatore,2018.0,Python,10.0,,7.2,90.0,No,Software Tester
+C1123,Female,M.Tech,-1,python,28,2,On Hold,27.0,Chennai,2020.0,,6.0,11.0,10.1,90.0,No,Software Tester
+C1124,,B.E.,8,"Java, SQL",91,2,Reject,25.0,Pune,2020.0,Python,7.0,93.0,2.9,7.0,Yes,Software Tester
+C1125,Female,M.Tech,4,"Python,SQL",84,8,Hire,29.0,Mumbai,2025.0,Django,8.0,93.0,6.0,60.0,Yes,Python Developer
+C1126,Male,,1,"Python, Pandas",93,,SELECTED,26.0,Hyderabad,2025.0,,3.0,58.0,9.5,30.0,Yes,Backend Developer
+C1127,Other,,0,"Python, Pandas",-5,6,Pending,21.0,Pune,2025.0,Django,4.0,98.0,5.7,0.0,Yes,Data Analyst
+C1128,,Bachelor's,2,"Python, Django",23,9,On Hold,28.0,Pune,,Django,7.0,1.0,3.9,0.0,Yes,Web Developer
+C1129,Male, Diploma ,4,Java,92,1,SELECTED,26.0,Coimbatore,2023.0,Power BI,1.0,62.0,4.0,30.0,No,Software Tester
+C1130,Female,M.Tech,7,"Excel, SQL",97,5,Rejected,27.0,Pune,2023.0,SQL,4.0,4.0,6.1,15.0,Yes,Software Tester
+C1131,,,4,Python,82,5,Selected,26.0,Kochi,2021.0,Django,8.0,94.0,6.8,0.0,Yes,Java Developer
+C1132,Male,Bachelor's,-1,,37,5,Pending,26.0,Hyderabad,2024.0,"Python, SQL",10.0,69.0,10.6,90.0,Yes,Java Developer
+C1133,Male,MBA,2,Python,49,6,,21.0,Pune,2025.0,Python,6.0,92.0,,60.0,Yes,Web Developer
+C1134,,B.E.,1,"Python, Django",93,7,On Hold,26.0,Pune,2024.0,"Python, SQL",4.0,57.0,8.9,30.0,Yes,Python Developer
+C1135,,b.e.,12,Java,66,2,Pending,28.0,Chennai,2023.0,Java,5.0,9.0,11.8,90.0,Yes,
+C1136,Female,b.e.,4,Data Analysis,62,2,selected,24.0,Kochi,2018.0,Django,7.0,3.0,6.1,90.0,No,Python Developer
+C1137,Other,,12,SQL,38,3,Rejected,27.0,Hyderabad,2024.0,SQL,6.0,34.0,6.0,,No,Web Developer
+C1138,female,Diploma,2,"Python, Django",79,10,On Hold,21.0,Hyderabad,2021.0,Excel,1.0,75.0,11.2,7.0,Yes,Software Tester
+C1139,female,b.e.,7,Java,100,5,SELECTED,24.0,Delhi,2024.0,SQL,6.0,16.0,4.5,90.0,No,Python Developer
+C1140,Female,,7,Machine Learning,,2,Hire,25.0,Mysuru,2022.0,AWS,5.0,86.0,9.3,30.0,No,Full Stack Developer
+C1141,female,,6,"HTML, CSS, JavaScript ",25,10,Hire,30.0,Kochi,2025.0,None,,24.0,9.5,60.0,No,Java Developer
+C1142,Other,B.E.,2,"Python, SQL",eighty,2,,23.0,Mysuru,2021.0,Python,9.0,50.0,3.0,90.0,Yes,Python Developer
+C1143,female,Diploma,7,Machine Learning,40,5,Selected,23.0,Delhi,2026.0,Java,10.0,21.0,6.7,0.0,No,Software Tester
+C1144,FEMALE,MCA,12,,28,9,Reject,25.0,Coimbatore,2025.0,Django,7.0,47.0,4.0,15.0,Yes,Web Developer
+C1145,,B.Sc,2,Machine Learning,-5,15,Rejected,30.0,Kochi,2020.0,SQL,4.0,46.0,3.9,0.0,Yes,Software Tester
+C1146,,b.e.,4,"Python, Django",62,9,Selected,29.0,Hyderabad,2022.0,AWS,5.0,1.0,6.6,7.0,Yes,Backend Developer
+C1147,Other,B.Sc,5,Java,47,8,SELECTED,21.0,Coimbatore,2022.0,Power BI,2.0,57.0,4.9,15.0,No,Web Developer
+C1148,female,,12,SQL,,9,Reject,23.0,Coimbatore,2024.0,Excel,10.0,79.0,10.0,90.0,Yes,Backend Developer
+C1149,Male,MBA,6,"Python, Django",99,3,selected,29.0,Mysuru,2024.0,,9.0,94.0,11.1,90.0,Yes,Java Developer
+C1150,Prefer not to say,BCA,7,"Python, Django",77,4,Reject,21.0,Delhi,2025.0,"Python, SQL",9.0,34.0,10.0,15.0,,Web Developer
+C1151, male,,7,SQL ,68,15,SELECTED,29.0,Coimbatore,2021.0, python ,4.0,89.0,4.7,7.0,Yes,Data Analyst
+C1152,Female,MCA,0,Java,67,2,On Hold,23.0,Mumbai,2022.0,Python,4.0,88.0,4.7,30.0,No,Software Tester
+C1153, male,Bachelor's,two,"Python, Django",,15,Selected,30.0,Chennai,2021.0,Python,9.0,99.0,4.5,90.0,Yes,Data Analyst
+C1154,Male,M.Tech,6,Java,67,2,Not Selected,23.0,Delhi,2026.0,Django,6.0,38.0,3.4,90.0,Yes,Software Tester
+C1012,Male,MCA,8,Data Analysis,63,7,On Hold,25.0,,2020.0,SQL,8.0,86.0,11.4,,Yes,Backend Developer
+C1156,,B.Tech,0,python,,15,SELECTED,27.0,Coimbatore,2023.0,AWS,5.0,57.0,6.0,7.0,,Full Stack Developer
+C1157,Female,Bachelor's,3,Machine Learning,50,10,Hire,22.0,Kochi,2019.0,"Python, SQL",5.0,6.0,4.2,60.0,Yes,Full Stack Developer
+C1158,female,BCA,0,Machine Learning,50,5,Pending,26.0,Mumbai,,"Python, SQL",7.0,28.0,10.5,7.0,No,Python Developer
+C1159,Male,MBA,2,"Python,SQL",eighty,15,,26.0,Bengaluru,2021.0,"Python, SQL",9.0,68.0,6.0,7.0,Yes,Python Developer
+C1160,Female,M.Tech,0,"Python, SQL",67,1,Rejected,28.0,Hyderabad,2021.0,AWS,4.0,17.0,2.4,,Yes,Full Stack Developer
+C1161,Other,Diploma,9,"HTML, CSS, JavaScript",62,6,,30.0,Chennai,2023.0,Excel,9.0,44.0,3.6,15.0,No,Java Developer
+C1162, male,B.E.,,python,28,8,selected,27.0,Kochi,2022.0,Excel,3.0,78.0,8.4,15.0,No,Python Developer
+C1163,Male, Diploma ,-1,"Python, SQL",85,9,SELECTED,25.0,Bengaluru,2025.0,SQL,5.0,15.0,9.8,30.0,Yes,Java Developer
+C1164,,Bachelor's,5,"Excel, SQL",62,6,Not Selected,25.0,Chennai,2022.0,Django,10.0,50.0,4.1,7.0,Yes,
+C1165,Female,MBA,2,Java,-5,9,Pending,25.0,Mumbai,2022.0,Django,10.0,22.0,11.2,60.0,Yes,Java Developer
+C1166,FEMALE,Bachelor's,9,MACHINE LEARNING,61,6,Pending,29.0,Kochi,2018.0,Power BI,10.0,54.0,10.5,60.0,No,Python Developer
+C1167,,MCA,2,"Python, Pandas",77,6,Selected,24.0,Coimbatore,2018.0,None,4.0,25.0,10.5,15.0,Yes,Backend Developer
+C1168,Other,,1,"Python, Pandas",66,15,,22.0,Delhi,2021.0,,9.0,97.0,4.3,7.0,Yes,Data Analyst
+C1169,Other,Diploma,0,"HTML, CSS, JavaScript",66,10,Not Selected,24.0,Mysuru,2026.0,Django,10.0,8.0,2.5,30.0,No,Java Developer
+C1170,FEMALE,BCA,7,Java,93,6,Selected,21.0,Chennai,2026.0,None,10.0,97.0,10.7,60.0,Yes,Python Developer
+C1171,FEMALE,Bachelor's,11,"Python, SQL",-5,2,Reject,22.0,Mysuru,2023.0,None,1.0,80.0,5.1,15.0,Yes,Software Tester
+C1001,Female,,10,"Excel, SQL",55,3,Selected,21.0,Mumbai,2023.0,Django,8.0,86.0,,7.0,No,Web Developer
+C1173,FEMALE,MCA,1,"Python,SQL",60,2,On Hold,28.0,Mumbai,2021.0,AWS,10.0,86.0,9.6,30.0,Yes,Full Stack Developer
+C1174, male,B.Sc,-1,"Python, SQL",42,9,,28.0,Bengaluru,2019.0,,8.0,19.0,3.3,15.0,No,Java Developer
+C1175,Female,B.Tech,0,"Java, SQL",67,9,Pending,27.0,Mumbai,2018.0,None,3.0,94.0,9.8,15.0,No,Data Analyst
+C1176,female,Diploma,11,Java,72,10,,25.0,Kochi,,,8.0,60.0,11.4,15.0,Yes,Data Analyst
+C1177,Other,B.Sc,7,"Excel, SQL",,9,Hire,28.0,Mumbai,2020.0,SQL,2.0,97.0,9.3,7.0,No,Data Analyst
+C1178, male, M.Tech ,0,Data Analysis,58,15,SELECTED,22.0,Bengaluru,2019.0,Java,5.0,88.0,6.4,60.0,No,Web Developer
+C1179,Female,b.e.,1,"Python, Pandas ",90,5,On Hold,30.0,Coimbatore,2020.0,,7.0,58.0,10.8,15.0,No,Python Developer
+C1180,Male,B.E.,9,Java,99,10,Selected,26.0,Mysuru,2018.0,Django,5.0,38.0,7.3,15.0,Yes,Java Developer
+C1181,Male,Bachelor's,10,"Python, Pandas",46,7,Hire,30.0,Kochi,2023.0,,7.0,12.0,9.4,30.0,Yes,Backend Developer
+C1182,Female,B.E.,-1,SQL,81,7,,22.0,Chennai,2026.0,Python,3.0,11.0,10.2,15.0,Yes,Backend Developer
+C1183,female, M.Tech ,6,"Excel, SQL",63,,On Hold,25.0,Mysuru,2024.0,Python,7.0,39.0,9.5,0.0,No,Software Tester
+C1184,Prefer not to say, BCA ,12,SQL,33,8,Rejected,27.0,Mysuru,2022.0,None,7.0,82.0,,90.0,Yes,Full Stack Developer
+C1185,female,BCA,-1,python,98,3,On Hold,25.0,Chennai,2021.0,Power BI,7.0,51.0,3.2,,No,Backend Developer
+C1186,Prefer not to say,BCA,7,"Python, SQL",59,15,Reject,25.0,Delhi,2020.0,Django,3.0,49.0,4.4,30.0,No,Software Tester
+C1187,Male,B.Tech,5,"Excel, SQL",83,8,On Hold,22.0,Pune,2019.0,Java,4.0,25.0,7.0,,No,Full Stack Developer
+C1188, male,M.Tech,4,Data Analysis,71,7,SELECTED,24.0,Mumbai,2023.0,Java,3.0,57.0,7.1,7.0,Yes,Python Developer
+C1189,Female,B.Sc,1,Java,90,10,Pending,23.0,Coimbatore,2023.0,SQL ,5.0,64.0,7.8,0.0,Yes,Backend Developer
+C1190,,b.e.,25,Python,110,3,Selected,24.0,Delhi,2018.0,Python,6.0,99.0,,90.0,No,Java Developer
+C1191,Other,M.Tech,2,Machine Learning,80,3,Not Selected,27.0,Mysuru,2021.0,None,4.0,73.0,9.9,15.0,Yes,Backend Developer
+C1192,Prefer not to say,,25,"Java, SQL",58,9,,27.0,Delhi,2020.0,"Python, SQL",5.0,61.0,11.1,15.0,Yes,Full Stack Developer
+C1193,Male,,0,"HTML, CSS, JavaScript",eighty,10,SELECTED,27.0,Mysuru,2019.0,Excel,3.0,92.0,4.5,60.0,No,Web Developer
+C1194,Other, b.e. ,25,"Python, Pandas",94,1,Reject,24.0,Mysuru,2024.0,Power BI,3.0,43.0,9.4,0.0,No,Python Developer
+C1195,Prefer not to say,M.Tech,12,"Excel, SQL",51,2,On Hold,30.0,Bengaluru,2022.0,SQL,7.0,94.0,8.8,30.0,No,Java Developer
+C1196,Male,B.Sc,6,Data Analysis,84,,selected,21.0,Hyderabad,2023.0,Excel,9.0,37.0,7.2,15.0,No,Java Developer
+C1197,Prefer not to say,b.e.,25,"Python, Django",81,15,Hire,24.0,Kochi,2024.0,Java,3.0,13.0,3.9,30.0,Yes,Full Stack Developer
+C1198,FEMALE,b.e.,10,"Java, SQL",53,15,selected,22.0,CHENNAI,2026.0,SQL,9.0,42.0,10.0,0.0,Yes,
+C1199,female,b.e.,4,python,46,8,SELECTED,24.0,Bengaluru,2025.0,Power BI,6.0,13.0,11.6,90.0,Yes,Web Developer
+C1200,Other,MCA,4,Python,89,7,SELECTED,30.0,Bengaluru,2023.0,,2.0,12.0,9.2,7.0,Yes,Full Stack Developer
+C1201,FEMALE,b.e.,11,,76,8,SELECTED,24.0,Coimbatore,2025.0,AWS,4.0,89.0,11.2,60.0,No,Web Developer
+C1202, male,Diploma,2,"Python, SQL",95,1,Selected,30.0,Mumbai,2022.0,SQL,1.0,80.0,11.8,60.0,Yes,Java Developer
+C1203,Other,MBA,1,"Python, Pandas",80,3,,,Chennai,2026.0,Excel,1.0,23.0,5.5,15.0,No,Backend Developer
+C1204,Female,Diploma,7,Machine Learning,56,0,selected,27.0,Chennai,2024.0,SQL,4.0,84.0,8.4,0.0,,Software Tester
+C1205,Other,B.E.,11,"Python,SQL",-5,3,Pending,25.0,Chennai,2023.0,SQL ,5.0,7.0,6.7,,,Web Developer
+C1206,Female,M.Tech,12,"Java, SQL",,1,,23.0,Mumbai,2026.0,"Python, SQL",,29.0,11.9,60.0,Yes,Web Developer
+C1207,Female,M.Tech,10,SQL,,8,,28.0,Bengaluru,2022.0,,2.0,71.0,2.9,90.0,Yes,Software Tester
+C1008,female,BCA,,"Python, Pandas",71,0,,30.0,Mumbai,2024.0,,9.0,31.0,6.1,90.0,No,Backend Developer
+C1209,Prefer not to say,M.Tech,6,"Python, SQL",71,good,Selected,23.0,Coimbatore,2020.0,AWS,3.0,74.0,10.8,7.0,No,Web Developer
+C1210,Male,MCA,4,"Python, Pandas",110,5,Not Selected,28.0,Coimbatore,2026.0,AWS,2.0,88.0,4.8,30.0,Yes,Python Developer
+C1211,FEMALE,B.Tech,11,"Python, Pandas",35,3,SELECTED,23.0,Kochi,2023.0,Power BI,7.0,7.0,9.9,0.0,Yes,Python Developer
+C1212,female,MBA,5,,37,8,Hire,28.0,Coimbatore,2025.0,Java,8.0,3.0,5.8,60.0,No,Data Analyst
+C1213,Female,b.e.,7,"HTML, CSS, JavaScript",47,,Hire,28.0,Kochi,2022.0,"Python, SQL",7.0,95.0,11.8,,No,Web Developer
+C1214, male,,11,Data Analysis,92,0,On Hold,25.0,Kochi,2025.0,None,2.0,53.0,10.8,60.0,Yes,Software Tester
+C1215,Prefer not to say,B.Tech,,Data Analysis,76,4,,28.0,Mysuru,2018.0,N/A,2.0,51.0,5.0,60.0,Yes,Backend Developer
+C1216,Prefer not to say,Diploma,12,python,85,10,SELECTED,23.0,Delhi,2019.0,"Python, SQL",4.0,47.0,9.7,90.0,No,Data Analyst
+C1217,,M.Tech,11,,20,10,Rejected,21.0,Coimbatore,2022.0,Excel,5.0,44.0,,15.0,No,Backend Developer
+C1218,,B.Sc,-1,python,eighty,8,On Hold,21.0,Coimbatore,2024.0,Power BI,10.0,70.0,8.1,15.0,No,Software Tester
+C1219,,MBA,25,Java,73,7,Hire,25.0,Hyderabad,2025.0,Java,,58.0,8.6,30.0,Yes,Python Developer
+C1220,Other,BCA,,"Python,SQL",35,9,Selected,30.0,Mumbai,2021.0,Django,2.0,17.0,10.3,0.0,Yes,Java Developer
+C1221,,BCA,25,"Python, SQL",79,9,,22.0,,2023.0,Python,10.0,63.0,2.2,0.0,No,Java Developer
+C1222,Male,BCA,5,"Python, SQL",34,7,Rejected,25.0,Mysuru,2022.0,None,2.0,67.0,4.2,30.0,No,Full Stack Developer
+C1223,Male,MBA,1,"HTML, CSS, JavaScript",96,1,selected,28.0,Delhi,2026.0,Excel,1.0,12.0,9.1,60.0,No,Full Stack Developer
+C1224,female,,3,Machine Learning,27,5,Not Selected,23.0,Chennai,2023.0,None,5.0,38.0,7.6,30.0,Yes,Backend Developer
+C1225,Other, Diploma ,,"Python, Pandas ",86,5,Pending,28.0,Delhi,2021.0,Django,5.0,80.0,7.0,60.0,Yes,Web Developer
+C1226,female,MBA,8,"Excel, SQL",110,7,On Hold,24.0,Chennai,2026.0,None,7.0,62.0,2.6,7.0,Yes,Web Developer
+C1227,Other,Bachelor's,4,Python,88,4,Hire,29.0,Kochi,2018.0,,9.0,14.0,5.5,15.0,Yes,Java Developer
+C1228,Female,Bachelor's,6,"Python,SQL",37,5,Not Selected,26.0,Bengaluru,2026.0,Django,10.0,5.0,10.7,30.0,No,Backend Developer
+C1229,Male,B.Tech,8,"Python, SQL",44,7,Reject,26.0,Coimbatore,2019.0,Java,3.0,59.0,2.3,15.0,Yes,Python Developer
+C1230,Male,BCA,11,"Python, SQL",81,6,Rejected,22.0,Mumbai,2020.0,SQL,10.0,47.0,6.0,0.0,No,Data Analyst
+C1231, male,b.e.,11,"Python, Django",51,4,SELECTED,25.0,Kochi,2025.0,None,7.0,,11.5,0.0,No,Python Developer
+C1232,Prefer not to say,Bachelor's,6,Java,65,6,,29.0,Pune,2024.0,,1.0,53.0,2.5,90.0,No,Web Developer
+C1233, male,B.Sc,two,Python,67,1,SELECTED,21.0,Mysuru,2026.0,Excel,10.0,94.0,9.5,30.0,No,Java Developer
+C1234,,,8,"Python,SQL",73,4,selected,28.0,Kochi,2024.0,"Python, SQL",2.0,22.0,4.6,7.0,Yes,Data Analyst
+C1235,Prefer not to say,Bachelor's,7,SQL,63,15,Not Selected,25.0,Chennai,,"Python, SQL",6.0,45.0,10.7,7.0,No,Java Developer
+C1236,Male,b.e.,2,Python,82,good,Rejected,28.0,Kochi,2021.0,None,,14.0,9.5,0.0,Yes,Full Stack Developer
+C1237,Other,B.E.,0,"Python, SQL",72,4,Hire,27.0,Kochi,2018.0,Django,3.0,58.0,10.9,90.0,Yes,Web Developer
+C1238,,B.E.,7,Python,-5,8,Hire,25.0,Pune,2019.0,Python,3.0,19.0,4.2,0.0,Yes,Backend Developer
+C1239,Other,B.Tech,11,Java,56,7,Hire,24.0,Kochi,2020.0,Python,5.0,50.0,7.3,60.0,Yes,Full Stack Developer
+C1240,,B.Tech,2,"PYTHON, DJANGO",87,6,Pending,27.0,Mysuru,2018.0,AWS,9.0,35.0,9.8,7.0,No,Full Stack Developer
+C1241,Male,B.Tech,7,"Excel, SQL",48,2,Pending,22.0,Delhi,2022.0,Java,3.0,19.0,4.5,15.0,Yes,Java Developer
+C1242,,Diploma,6,python,21,2,Not Selected,26.0,Kochi,2024.0,None,7.0,10.0,4.3,7.0,Yes,Full Stack Developer
+C1243,Male,B.Tech,two,"Python, Pandas",25,10,SELECTED,21.0,Hyderbad,2026.0,Java,5.0,52.0,,60.0,Yes,Full Stack Developer
+C1244, male,,8,SQL,-5,6,Pending,27.0,Hyderabad,2022.0,Python,2.0,95.0,11.6,0.0,Yes,Full Stack Developer
+C1245,female,MBA,1,python,50,7,On Hold,27.0,Delhi,2025.0,AWS,8.0,20.0,9.1,15.0,No,Java Developer
+C1246,,BCA,11,"Python,SQL",84,6,Rejected,21.0,Pune,2026.0,,9.0,41.0,8.4,7.0,Yes,Data Analyst
+C1247,FEMALE,Bachelor's,9,"HTML, CSS, JavaScript",96,6,selected,28.0,Coimbatore,2025.0,,6.0,23.0,9.4,7.0,No,Software Tester
+C1248,Female,,-1,"Java, SQL",75,10,selected,25.0,Hyderabad,2022.0,Power BI,2.0,81.0,7.3,7.0,Yes,Full Stack Developer
+C1249,female, M.Tech ,11,Java,39,3,Rejected,28.0,Hyderabad,2020.0,"Python, SQL",2.0,42.0,6.8,90.0,No,Full Stack Developer
+C1250,Prefer not to say, b.e. ,0,Data Analysis,54,2,Hire,21.0,Chennai,2026.0,None,5.0,98.0,6.5,15.0,Yes,Web Developer
+C1006,FEMALE,Diploma,1,"Python, Pandas",66,6,Rejected,22.0,,,,6.0,25.0,8.4,15.0,Yes,Data Analyst
+C1252,Other,Diploma,6,"Excel, SQL",-5,4,On Hold,25.0,Chennai,2021.0,"Python, SQL",6.0,9.0,4.0,15.0,Yes,Java Developer
+C1011,Male, Diploma ,1,,79,,Rejected,22.0,Bengaluru,2018.0,Excel,3.0,59.0,10.9,90.0,No,Software Tester
+C1254,Female,B.Sc,-1,"Java, SQL",100,10,Selected,24.0,Mysuru,2025.0,Power BI,6.0,66.0,10.1,15.0,No,Web Developer
+C1255,,Diploma,,Machine Learning,68,6,On Hold,27.0,Coimbatore,2023.0,Excel,3.0,100.0,5.5,15.0,Yes,Java Developer
+C1256,female,MCA,4,,45,15,,22.0,Pune,2018.0,Power BI,7.0,88.0,7.8,7.0,,Java Developer
+C1257, male,,9,Data Analysis,68,7,On Hold,27.0,Kochi,2019.0,Power BI,8.0,89.0,3.4,7.0,,Python Developer
+C1258,FEMALE,B.Tech,10,"Python,SQL",110,4,Pending,22.0,Pune,2022.0,,7.0,64.0,,0.0,Yes,Java Developer
+C1259,,B.Tech,10,"HTML, CSS, JavaScript",58,3,Reject,22.0,Chennai,,Django,1.0,36.0,11.0,30.0,yes,Software Tester
+C1260,female,b.e.,7,Machine Learning,-5,7,Rejected,26.0,Kochi,2025.0,Django,,43.0,11.2,0.0,No,Data Analyst
+C1261,,M.Tech,1,python,65,10,Pending,28.0,Chennai,2020.0,Power BI,1.0,14.0,5.3,7.0,No,Full Stack Developer
+C1262, male,Bachelor's,1,"Python, Django",48,9,Pending,22.0,Coimbatore,2026.0,Java,10.0,,3.7,7.0,No,
+C1263,FEMALE,MBA,7,Java,84,1,Rejected,,Mysuru,2022.0,,1.0,37.0,4.1,7.0,Yes,Software Tester
+C1264,female,Bachelor's,11,Java,63,4,,30.0,Mysuru,2025.0,Excel,6.0,4.0,2.9,60.0,Yes,Web Developer
+C1265,female,Diploma,11,Java,28,2,On Hold,30.0,Pune,2020.0,Django,2.0,21.0,3.2,30.0,Yes,Backend Developer
+C1266,Prefer not to say,BCA,11,python,90,9,Pending,26.0,Delhi,2018.0,,1.0,54.0,2.7,90.0,Yes,Full Stack Developer
+C1267,Prefer not to say,,10,"Excel, SQL",75,,Pending,25.0,Mumbai,2018.0,Django,7.0,37.0,11.9,15.0,Y,
+C1268,Other,M.Tech,0,"Python, Django",55,2,selected,24.0,Coimbatore,2021.0,Java,8.0,100.0,2.7,,Yes,Software Tester
+C1269,,,7,Java,82,6,Not Selected,27.0,Chennai,2026.0,Python,2.0,48.0,3.3,0.0,Yes,Software Tester
+C1270,Other,M.Tech,5,Java,-5,10,selected,26.0,Pune,,SQL,10.0,96.0,10.3,30.0,Yes,Web Developer
+C1271,,MBA,4,SQL,38,7,,23.0,Mumbai,2021.0,Power BI,4.0,67.0,7.8,60.0,Yes,Data Analyst
+C1272,Other,M.Tech,10,"PYTHON,SQL",42,8,,21.0,Mysuru,2018.0,Power BI,4.0,5.0,,30.0,No,Web Developer
+C1273,Prefer not to say,MBA,,"Python, Pandas",21,4,,22.0,Bengaluru,2026.0,Power BI,3.0,21.0,8.3,90.0,Yes,Data Analyst
+C1274, male,MCA,,Python,82,10,SELECTED,30.0,Kochi,2024.0,Power BI,5.0,71.0,10.8,7.0,No,Web Developer
+C1275,Female,,3,Java,78,8,SELECTED,25.0,Delhi,2024.0,SQL ,2.0,55.0,8.4,0.0,Yes,Software Tester
+C1276,Prefer not to say,b.e.,,"Python, SQL",66,1,Pending,25.0,Mysuru,2024.0,SQL,5.0,31.0,7.2,60.0,Yes,Data Analyst
+C1277,female,B.Tech,,"HTML, CSS, JavaScript",51,1,Rejected,25.0,Pune,2023.0,Power BI,3.0,53.0,9.1,0.0,Yes,Data Analyst
+C1278,Other,,12,SQL,95,10,selected,28.0,Chennai,2024.0,SQL,,91.0,6.5,60.0,,Backend Developer
+C1279,female,MCA,3,"Java, SQL ",64,10,Reject,21.0,Hyderabad,2018.0,Power BI,4.0,39.0,5.5,60.0,Yes,Java Developer
+C1007, male,Diploma,9,"Python, Django",51,7,Selected,21.0,Delhi,2025.0,Excel,7.0,5.0,6.7,90.0,Yes,Data Analyst
+C1281,FEMALE,Diploma,2,"Excel, SQL",51,7,Pending,23.0,Delhi,2024.0,Python,8.0,32.0,3.7,15.0,No,Software Tester
+C1282,female,Bachelor's,7,"HTML, CSS, JavaScript",31,5,Not Selected,,Mumbai,2024.0,Power BI,4.0,94.0,10.0,90.0,No,Backend Developer
+C1283,female,B.Tech,,python,31,8,Hire,27.0,Chennai,2021.0,,4.0,77.0,4.6,7.0,Yes,Backend Developer
+C1284,female,b.e.,25,MACHINE LEARNING,47,6,On Hold,25.0,Chennai,2025.0,,8.0,84.0,3.5,15.0,No,Backend Developer
+C1285,Other,Bachelor's,7,"HTML, CSS, JavaScript",26,8,Selected,25.0,Coimbatore,2021.0,None,7.0,92.0,4.5,0.0,No,Full Stack Developer
+C1286,FEMALE, B.Tech ,25,"Python, Pandas",,5,Not Selected,30.0,Mumbai,2018.0,AWS,9.0,12.0,10.4,60.0,Yes,Software Tester
+C1287, male,MBA,4,"Python, Pandas ",41,5,Rejected,22.0,Bengaluru,2026.0,SQL,10.0,29.0,5.3,60.0,No,Java Developer
+C1288,Prefer not to say,B.E.,11,Python,81,10,Not Selected,26.0,,2020.0,Python,9.0,6.0,8.9,60.0,Yes,Full Stack Developer
+C1289,Female,B.Tech,1,"Python, Django",81,7,Not Selected,26.0,Coimbatore,2018.0,Java,10.0,1.0,10.6,60.0,Yes,Data Analyst
+C1290,Male,,4,"Python, Pandas",37,3,On Hold,25.0,Bengaluru,2023.0,None,5.0,84.0,2.8,7.0,No,Java Developer
+C1291,Prefer not to say,BCA,5,Java ,100,7,Rejected,29.0,Bengaluru,2020.0,Django,4.0,94.0,9.7,0.0,Yes,Backend Developer
+C1292,Other,BCA,2,"Java, SQL",69,7,Rejected,23.0,,2025.0,"Python, SQL",4.0,16.0,5.1,90.0,No,Full Stack Developer
+C1293,FEMALE,BCA,3,Data Analysis,97,,Reject,30.0,Kochi,2021.0,Power BI,3.0,73.0,4.2,15.0,No,Java Developer
+C1294,Female,BCA,3,"HTML, CSS, JavaScript",57,4,Reject,24.0,Delhi,2018.0,AWS,8.0,54.0,8.9,0.0,Yes,Backend Developer
+C1295,,M.Tech,two,Data Analysis,eighty,6,On Hold,26.0,Pune,2026.0,Java,8.0,7.0,11.1,90.0,Yes,Full Stack Developer
+C1296, male,B.E.,-1,Python,29,2,Pending,26.0,Hyderabad,2022.0,AWS,9.0,92.0,5.0,90.0,Yes,Backend Developer
+C1297,Female,Diploma,8,Data Analysis,84,7,Hire,29.0,Mysuru,2020.0,,2.0,88.0,7.7,15.0,No,Python Developer
+C1020,Male,Diploma,3,"Python, Pandas",75,7,Rejected,25.0,Coimbatore,2024.0,SQL,5.0,57.0,4.9,60.0,Yes,Software Tester
+C1299, male,B.E.,10,"Python, SQL",28,7,Rejected,23.0,,2022.0,Java,,71.0,7.5,0.0,Yes,Data Analyst
+C1300,Other,B.E.,6,SQL,97,3,,21.0,Pune,2018.0,Django,9.0,40.0,8.2,0.0,No,Backend Developer
+C1301,FEMALE,B.Tech,5,python,53,3,Selected,24.0,Bengaluru,2024.0,Python,3.0,80.0,8.1,7.0,No,Python Developer
+C1302,Prefer not to say,Bachelor's,5,Data Analysis,87,10,Not Selected,29.0,Hyderabad,2021.0,Java,2.0,45.0,,30.0,No,Full Stack Developer
+C1303,Female,BCA,,,41,5,Hire,21.0,Coimbatore,2024.0,Java,6.0,99.0,3.4,0.0, NO ,Data Analyst
+C1304,Other,B.Sc,,"Python,SQL",21,8,Selected,29.0,Mysuru,2026.0, python ,9.0,7.0,8.9,0.0,No,Java Developer
+C1305,female,MCA,two,"Python,SQL",73,4,Rejected,26.0,Kochi,2023.0,,10.0,18.0,8.7,60.0,No,Data Analyst
+C1306,,B.Tech,9,"HTML, CSS, JavaScript",26,good,SELECTED,22.0,Delhi,2024.0,Python,1.0,97.0,8.8,,No,Backend developer 
+C1307,FEMALE,,12,"Python, SQL ",90,6,,24.0,Coimbatore,2020.0,,4.0,29.0,2.7,60.0,Yes,Java Developer
+C1308, male,B.Sc,25,Python,45,9,Pending,26.0,Bengaluru,2020.0,Java,2.0,32.0,6.5,60.0,No,Backend Developer
+C1309,,MCA,0,Java,110,1,selected,24.0,Pune,2021.0,Python,4.0,80.0,6.1,60.0,Yes,Python Developer
+C1310,Female,B.E.,8,"Python, SQL",eighty,3,Hire,22.0,Mysuru,2025.0,,6.0,19.0,2.9,30.0,No,Web Developer
+C1311,Other,Diploma,two,"Python,SQL",eighty,2,Pending,27.0,Bengaluru,2022.0,AWS,3.0,52.0,4.2,30.0,Yes,Full Stack Developer
+C1312,FEMALE,M.Tech,1,python,75,3,Pending,27.0,Delhi,2021.0,Excel,1.0,29.0,6.4,90.0,Yes,Full Stack Developer
+C1313,Other,,11,Java,77,15,On Hold,22.0,Kochi,2025.0,Excel,6.0,20.0,9.4,15.0,No,Data Analyst
+C1314, male,Bachelor's,1,"Java, SQL",60,9,,23.0,Hyderabad,2025.0,Java,1.0,97.0,,0.0,No,Java Developer
+C1315,female,B.Sc,4,Java,,10,selected,23.0,Delhi,,"Python, SQL",3.0,20.0,10.3,60.0,No,Java Developer
+C1316,,Bachelor's,5,Data Analysis,58,3,Hire,27.0,Delhi,2020.0,SQL,1.0,10.0,7.5,7.0,Yes,Web Developer
+C1317, male,B.Sc,3,"Python, SQL",37,,Pending,28.0,Bengaluru,,AWS,1.0,68.0,9.6,90.0,No,Web Developer
+C1318,Female,B.E.,5,Java,30,0,selected,28.0,Bengaluru,,AWS,5.0,87.0,,15.0,Yes,Python Developer
+C1319,Prefer not to say,B.E.,,SQL,-5,6,Reject,30.0,Mumbai,2022.0,SQL,9.0,13.0,7.0,90.0,No,Backend Developer
+C1320, male,B.Sc,6,"Java, SQL",23,7,SELECTED,28.0,Mysuru,2021.0,AWS,8.0,71.0,8.2,0.0,No,Data Analyst
+C1321,Prefer not to say,B.E.,7,Java,99,5,SELECTED,24.0,Bengaluru,2019.0,Power BI,1.0,55.0,11.3,30.0,No,Java Developer
+C1322,,M.Tech,6,"HTML, CSS, JavaScript",87,9,Hire,22.0,Mumbai,2020.0,None,1.0,84.0,6.9,15.0,No,Backend Developer
+C1323,Male,M.Tech,12,Machine Learning,92,7,selected,27.0,Chennai,2022.0,Power BI,4.0,13.0,7.3,15.0,No,Software Tester
+C1324, male,B.Sc,12,Java,27,8,selected,30.0,Mumbai,2025.0,"Python, SQL",7.0,98.0,8.0,7.0,No,Java Developer
+C1325,,M.Tech,10,"Python,SQL",27,4,On Hold,30.0,Mumbai,2025.0,None,8.0,62.0,9.4,90.0,,Full Stack Developer
+C1326,female,,2,Machine Learning,-5,1,On Hold,23.0,Bengaluru,2019.0,,9.0,85.0,2.7,15.0,Yes,Java Developer
+C1327,Female,B.E.,,"Python, SQL",83,3,Reject,23.0,Kochi,2024.0,SQL,4.0,37.0,7.2,90.0,Yes,Web Developer
+C1328,Other,M.Tech,3,,20,10,On Hold,21.0,Mysuru,2018.0,,2.0,95.0,6.8,15.0,No,Data Analyst
+C1329,female,B.Tech,12,"Python, Django",38,3,Pending,22.0,Delhi,2024.0,Excel,1.0,63.0,11.2,0.0,No,Data Analyst
+C1330,,Diploma,9,"HTML, CSS, JavaScript",61,3,Not Selected,26.0,Bengaluru,2021.0,,2.0,13.0,6.9,90.0,Yes,Web Developer
+C1331,Other, MBA ,25,"Java, SQL",98,4,SELECTED,26.0,Hyderabad,2022.0,Power BI,1.0,93.0,6.7,7.0,Yes,Web Developer
+C1332,female,,2,"Python, SQL",93,10,Reject,24.0,Hyderabad,2024.0,,9.0,80.0,11.6,7.0,Yes,Backend Developer
+C1333,Female,Diploma,1,"Python, Pandas",29,6,Not Selected,24.0,Coimbatore,2021.0,Django,3.0,31.0,6.5,90.0,,Java Developer
+C1334,Female,B.E.,7,Python,51,6,Pending,29.0,Chennai,2025.0,Python,9.0,55.0,3.8,90.0,Yes,Full Stack Developer
+C1335,female,b.e.,7,"Excel, SQL",,,Rejected,25.0,Delhi,2022.0,,6.0,39.0,4.2,90.0,No,Software Tester
+C1336,Male,MCA,,Python,48,2,Not Selected,29.0,Kochi,2026.0,SQL,6.0,55.0,3.0,15.0,No,Python Developer
+C1337,Female,M.Tech,4,Machine Learning,,3,Reject,30.0,,2023.0,,5.0,97.0,2.0,60.0,Yes,Backend Developer
+C1338,Female,M.Tech,7,"Python, SQL",41,7,selected,24.0,Chennai,2020.0,Power BI,9.0,90.0,6.3,7.0,Yes,Software Tester
+C1339,Female,B.E.,6,"Excel, SQL",89,5,Reject,23.0,Bengaluru,2024.0,AWS,1.0,22.0,9.7,60.0,Y,Backend developer 
+C1340,Prefer not to say,BCA,8,Java,66,2,Selected,30.0,Mysuru,2021.0,Django,,98.0,9.3,30.0,No,Web Developer
+C1341,,Bachelor's,3,"HTML, CSS, JavaScript",30,2,SELECTED,27.0,Hyderabad,2022.0,Java,5.0,44.0,2.3,0.0,No,Java Developer
+C1342,Prefer not to say,B.E.,1,"Java, SQL",43,7,,23.0,Mumbai,2019.0,Python,4.0,71.0,7.7,15.0,Yes,Software Tester
+C1343,Female,B.Tech,7,"Python, Pandas",54,3,Not Selected,27.0,Mysuru,2019.0,"Python, SQL",6.0,77.0,3.5,15.0,Yes,Web Developer
+C1344,,b.e.,12,"Python, Pandas",95,,,26.0,Bengaluru,2023.0,"Python, SQL",8.0,49.0,11.4,7.0,Yes,Web Developer
+C1345,Other,B.Tech,9,python,30,1,,30.0,Bengaluru,2019.0,None,6.0,46.0,3.7,15.0,No,Data Analyst
+C1346,,BCA,25,"Python,SQL",44,7,On Hold,23.0,Bengaluru,2026.0,Excel,3.0,46.0,8.3,30.0,No,Java Developer
+C1013,Other,M.Tech,,python,,9,On Hold,30.0,Chennai,2025.0,Java,4.0,87.0,5.3,0.0,No,Web Developer
+C1348,Other,B.Sc,12,Machine Learning,95,7,Reject,30.0,Bengaluru,2024.0,Django,8.0,39.0,8.4,0.0,Yes,Web Developer
+C1349,FEMALE,b.e.,25,"Python, Django",-5,10,Pending,22.0,Delhi,2024.0,Django,3.0,28.0,6.1,60.0,Yes,Java Developer
+C1350,,B.Sc,4,Machine Learning,93,1,Reject,22.0,Mumbai,2023.0,SQL,6.0,37.0,9.6,15.0,Y,Software Tester
+C1351,Male,Bachelor's,10,"Java, SQL",,6,Not Selected,26.0,Mysuru,2018.0,Python,6.0,20.0,4.3,30.0,No,Data Analyst
+C1352,Female,BCA,,SQL,58,,SELECTED,21.0,Delhi,2021.0,AWS,8.0,40.0,11.1,30.0,No,Web Developer
+C1353,Female, BCA ,7,"HTML, CSS, JavaScript",61,7,selected,23.0,Hyderbad,2022.0,Java,8.0,12.0,7.0,30.0,Yes,Python Developer
+C1354,Other,B.Tech,6,"Java, SQL",,1,Hire,25.0,Hyderabad,2026.0,SQL,5.0,9.0,9.6,15.0,Yes,Web Developer
+C1355, male,B.E.,2,"Python, SQL",,1,Selected,30.0,Hyderabad,2019.0,SQL,4.0,73.0,10.5,15.0,Yes,Backend Developer
+C1356,Female,Diploma,two,Python,45,8,selected,30.0,Delhi,2022.0,,4.0,8.0,12.0,60.0,No,Backend Developer
+C1357,female,M.Tech,5,SQL ,110,8,SELECTED,,Hyderabad,2021.0,Power BI,5.0,57.0,4.2,90.0,No,Software Tester
+C1358, male,BCA,11,"Python, Pandas",23,,selected,29.0,Bengaluru,2019.0,Django,3.0,78.0,4.9,7.0,No,Backend Developer
+C1359,Other,Diploma,10,SQL,72,1,Reject,21.0,Kochi,2018.0,Django,7.0,73.0,4.5,60.0,Yes,Python Developer
+C1360,FEMALE, MBA ,12,"Excel, SQL",97,5,Not Selected,28.0,Delhi,2021.0,None,3.0,45.0,4.6,90.0,No,Java Developer
+C1361,Female,B.E.,7,Data Analysis,58,10,Not Selected,29.0,Mysuru,2018.0,None,7.0,20.0,7.8,0.0,Yes,Software Tester
+C1362,female,MCA,8,"PYTHON, PANDAS",56,2,Not Selected,29.0,Mysuru,2018.0,AWS,8.0,94.0,11.9,60.0,No,Backend Developer
+C1363,Male,,4,"Excel, SQL",58,9,Not Selected,23.0,Chennai,2021.0,"Python, SQL",10.0,84.0,11.9,15.0,No,Software Tester
+C1364,,MBA,2,,eighty,0,Selected,29.0,Kochi,2019.0,Power BI,2.0,62.0,7.3,90.0,No,Backend Developer
+C1365,Prefer not to say,Diploma,25,"Python, Django",44,4,Hire,22.0,Delhi,2022.0,"Python, SQL",8.0,,8.4,30.0,No,Data Analyst
+C1366,FEMALE,b.e.,,python,91,2,On Hold,26.0,Kochi,2018.0,Java,1.0,4.0,10.6,90.0,No,Data Analyst
+C1367,female,M.Tech,10,"Java, SQL",48,5,Reject,25.0,Delhi,2020.0,SQL,4.0,32.0,11.3,0.0,Yes,Python Developer
+C1368,Female,Bachelor's,,"Python, SQL",80,10,Hire,24.0,Delhi,2022.0,None,2.0,16.0,4.0,0.0,Yes,Software Tester
+C1369, male,M.Tech,1,"Excel, SQL",58,3,Reject,21.0,Coimbatore,2026.0,Python,2.0,87.0,7.3,90.0,No,Software Tester
+C1370,Other,M.Tech,7,"Python, Pandas",43,8,Selected,28.0,Bengaluru,2023.0,None,2.0,21.0,10.3,30.0,No,Data Analyst
+C1371,Female, B.Sc ,0,Machine Learning,41,3,Pending,24.0,Coimbatore,2025.0,Python,1.0,29.0,5.0,30.0,Yes,Backend Developer
+C1372,female,B.E.,10,"Python, Django",81,1,Hire,27.0,Chennai,2021.0,AWS,9.0,98.0,6.4,7.0,No,Backend Developer
+C1373,female,MCA,3,SQL,100,4,Rejected,25.0,Chennai,2022.0,,1.0,82.0,11.9,7.0,Yes,Java Developer
+C1374,FEMALE,Bachelor's,6,,41,1,Hire,24.0,Chennai,2021.0,,4.0,22.0,11.9,60.0,No,Data Analyst
+C1375, male,B.Sc,9,python ,37,8,Pending,29.0,Kochi,2025.0,Java,7.0,39.0,11.1,7.0,Yes,Backend Developer
+C1376,Other, B.Tech ,0,"Python, Django",36,1,Selected,21.0,Coimbatore,2026.0,SQL,10.0,52.0,10.0,30.0,No,Software Tester
+C1377,Female,Diploma,6,"Python,SQL",88,good,Selected,28.0,Coimbatore,2026.0,AWS,9.0,67.0,4.7,7.0,Yes,Data Analyst
+C1378,Other,BCA,0,,76,9,Selected,28.0,Kochi,2024.0,"Python, SQL",2.0,94.0,5.2,7.0,Yes,Data Analyst
+C1379,,B.Tech,4,Data Analysis,86,10,Reject,24.0,Coimbatore,2022.0,None,10.0,88.0,7.5,,No,Web Developer
+C1380,FEMALE,b.e.,1,"Python, SQL",33,10,Not Selected,23.0,Mumbai,2022.0,SQL,7.0,98.0,7.6,90.0,No,Web Developer
+C1381,Prefer not to say,M.Tech,11,"Python, SQL",25,4,Selected,21.0,Bengaluru,2026.0,Power BI,2.0,5.0,7.1,90.0,Yes,Data Analyst
+C1382,Female,b.e.,0,Java,,8,Rejected,30.0,Delhi,2020.0,,5.0,24.0,8.4,0.0,No,Full Stack Developer
+C1383,Other,B.E.,4,"Python,SQL",57,1,SELECTED,30.0,Coimbatore,2021.0,SQL,,57.0,6.1,15.0,Yes,Java Developer
+C1384,Male,B.E.,5,"Python,SQL",74,,On Hold,23.0,Chennai,2026.0,"Python, SQL",4.0,5.0,9.5,30.0,Yes,Java Developer
+C1385,Female,M.Tech,10,"Python,SQL",,10,Not Selected,21.0,Delhi,2021.0,Excel,2.0,36.0,5.3,15.0,Yes,Python Developer
+C1386,Prefer not to say,MBA,2,"Python, Pandas",78,7,On Hold,22.0,Kochi,2020.0,SQL,9.0,16.0,5.3,60.0,Yes,Full Stack Developer
+C1387,Prefer not to say,,1,"Python, Pandas",eighty,3,,21.0,Bengaluru,2023.0,Excel,10.0,94.0,3.3,7.0,No,Data Analyst
+C1388,Prefer not to say, B.Tech ,2,"Excel, SQL",65,3,,29.0,Chennai,2020.0,Java,10.0,7.0,3.9,0.0,No,Full Stack Developer
+C1389, male,Diploma,0,"Python,SQL",60,9,Not Selected,29.0,Bengaluru,,Python,10.0,15.0,10.5,15.0,Yes,Web Developer
+C1390,,B.Sc,8,"Python,SQL",99,4,Hire,22.0,Hyderabad,2026.0,Java,9.0,20.0,6.5,30.0,Yes,Full Stack Developer
+C1391,Other,B.Tech,9,python,40,,,28.0,Bengaluru,2020.0,SQL,5.0,15.0,4.3,7.0,No,Data Analyst
+C1392,,MBA,5,"Python,SQL",55,4,selected,22.0,Kochi,2022.0,,2.0,57.0,,60.0,No,Data Analyst
+C1393,Female,Bachelor's,1,,93,8,Selected,24.0,Coimbatore,2026.0,"Python, SQL",7.0,37.0,7.5,0.0,Yes,Backend Developer
+C1394,FEMALE,b.e.,1,Data Analysis,91,2,selected,26.0,Mysuru,2024.0,None,3.0,92.0,2.2,0.0,Yes,Backend Developer
+C1395,Prefer not to say,M.Tech,10,Data Analysis,63,1,Reject,28.0,Kochi,2019.0,SQL,5.0,27.0,5.2,30.0,Yes,Web Developer
+C1396, male,B.E.,7,"Python, Django",66,2,Not Selected,29.0,Mumbai,2023.0,"Python, SQL",7.0,54.0,3.8,30.0,Yes,Python Developer
+C1397,Other,Bachelor's,10,SQL,86,2,Pending,21.0,Coimbatore,2023.0,Django,10.0,67.0,8.6,7.0,No,Full Stack Developer
+C1398, male,M.Tech,1,Java,44,7,Pending,22.0,Bengaluru,2023.0,"Python, SQL",3.0,63.0,4.8,7.0,No,Java Developer
+C1399,Other,Bachelor's,,Python,95,8,Hire,,Bengaluru,2018.0,None,3.0,80.0,2.6,0.0,No,Full Stack Developer
+C1400,Other,,11,SQL,,0,On Hold,24.0,Mumbai,2020.0,Power BI,8.0,21.0,2.5,30.0,No,Full Stack Developer
+C1401,,,1,,,,selected,30.0,Bengaluru,2025.0,Django,1.0,51.0,7.8,15.0,Yes,Backend Developer
+C1402,FEMALE,b.e.,25,"Python,SQL",57,3,Not Selected,28.0,Bengaluru,2020.0,Django,6.0,81.0,2.2,0.0,No,Software Tester
+C1403,FEMALE,Diploma,-1,"Python, Django",100,4,On Hold,24.0,Chennai,2020.0,None,8.0,87.0,10.5,15.0,No,Software Tester
+C1404,female, b.e. ,25,"HTML, CSS, JavaScript",42,6,Reject,30.0,Delhi,2020.0,AWS,6.0,62.0,3.6,,No,Web Developer
+C1405,Female,B.E.,10,"Excel, SQL",88,7,On Hold,25.0,Coimbatore,2019.0,Power BI,4.0,66.0,8.1,7.0,Yes,Python Developer
+C1406,FEMALE, B.Sc ,0,"Python,SQL",54,good,Selected,26.0,Kochi,2019.0,AWS,9.0,,6.4,90.0,No,Java Developer
+C1407, male,Diploma,11,Data Analysis,89,8,Pending,25.0,Pune,2021.0,AWS,4.0,63.0,6.4,7.0,Yes,Backend Developer
+C1408,,MBA,8,python,56,0,Not Selected,22.0,Chennai,2025.0,SQL,8.0,95.0,2.7,7.0,No,Backend Developer
+C1409,female,,8,Data Analysis,52,8,Reject,30.0,Pune,2018.0,Python,5.0,13.0,10.0,7.0,No,Web Developer
+C1410,Female,B.Sc,12,SQL,44,good,Hire,21.0,Bengaluru,2020.0,,1.0,35.0,10.9,7.0,No,Software Tester
+C1411,FEMALE,B.E.,1,"Python, Django",55,3,,22.0,Kochi,2018.0,,6.0,12.0,2.1,0.0,No,Python Developer
+C1412,FEMALE,Bachelor's,11,python,61,,Reject,23.0,Chennai,2023.0,"Python, SQL",1.0,10.0,3.8,30.0,No,Web Developer
+C1413,Other, MBA ,8,Data Analysis,60,3,Hire,23.0,Pune,2020.0,Python,10.0,48.0,11.0,15.0,,Web Developer
+C1414, male,,6,Data Analysis,47,6,,,Mysuru,2025.0,None,7.0,,7.5,60.0,No,Full Stack Developer
+C1415, male,B.E.,25,"Python, Pandas",21,6,Not Selected,21.0,Mumbai,2023.0,Power BI,4.0,41.0,3.5,15.0,No,Java Developer
+C1416,female,b.e.,-1,python,69,5,Hire,27.0,Coimbatore,2025.0,Django,5.0,44.0,4.0,15.0,Yes,Data Analyst
+C1417,Other,b.e.,7,Data Analysis,44,15,Selected,30.0,Coimbatore,2023.0,,7.0,63.0,8.6,15.0,Yes,Java Developer
+C1018,Female,b.e.,1,"Python, SQL",49,,SELECTED,22.0,Delhi,2021.0,Java,3.0,95.0,9.2,0.0,,Data Analyst
+C1419,Female,B.E.,1,SQL,39,6,SELECTED,23.0,Hyderabad,2025.0,Java,3.0,85.0,8.0,60.0,No,Web Developer
+C1420,,MBA,8,"Python, Django",-5,7,Selected,26.0,Mumbai,2022.0,Django,5.0,38.0,11.5,0.0,No,Software Tester
+C1421,Male,B.Tech,6,"Python, Django",20,10,Hire,30.0,,2026.0,Power BI,3.0,33.0,6.9,60.0,No,Backend Developer
+C1422,Prefer not to say,MBA,4,"Excel, SQL",58,5,Selected,27.0,Mumbai,2026.0,Django,8.0,78.0,5.0,90.0,No,Full Stack Developer
+C1423,Other,MCA,7,"Python, Pandas",37,9,Not Selected,28.0,Coimbatore,2023.0,"Python, SQL",2.0,13.0,6.8,60.0,No,Python Developer
+C1424,,b.e.,,Data Analysis,38,1,Rejected,26.0,Chennai,2024.0,Java,9.0,55.0,5.6,15.0,No,Data Analyst
+C1425,Other,BCA,3,Machine Learning,64,9,SELECTED,25.0,Hyderabad,2020.0,Power BI,4.0,43.0,4.2,7.0,Yes,Java Developer
+C1426,Female,MCA,3,"PYTHON, PANDAS",,9,Rejected,22.0,Mysuru,2025.0,SQL,6.0,19.0,2.5,90.0,Yes,Data Analyst
+C1427, male,B.Tech,4,"Java, SQL",94,6,Reject,29.0,Coimbatore,2024.0,Power BI,2.0,62.0,5.5,7.0,Yes,Backend Developer
+C1428,Other,,1,Machine Learning,77,5,Not Selected,29.0,Hyderabad,2026.0,SQL,4.0,33.0,9.1,15.0,No,Python Developer
+C1429,,MCA,-1,"Python,SQL",41,4,Not Selected,21.0,Pune,2020.0,SQL,8.0,19.0,2.2,60.0,Yes,Python Developer
+C1430,Prefer not to say,b.e.,10,Java,81,6,On Hold,28.0,Mumbai,2025.0,,3.0,66.0,6.4,90.0,Yes,Full Stack Developer
+C1431, male,MCA,10,,,,Rejected,21.0,Coimbatore,2022.0,Python,2.0,18.0,8.4,90.0,Yes,Full Stack Developer
+C1432, male,B.E.,two,Data Analysis,84,10,SELECTED,28.0,Kochi,2019.0,Java,6.0,68.0,8.1,0.0,No,Data Analyst
+C1433,FEMALE,B.Sc,8,"HTML, CSS, JavaScript",39,,Hire,29.0,Hyderabad,2019.0,"Python, SQL",2.0,17.0,9.8,90.0,Y,Java Developer
+C1434,Other,b.e.,8,SQL,84,,,22.0,Mumbai,2023.0,,4.0,44.0,10.1,0.0,No,Data Analyst
+C1435,Prefer not to say,M.Tech,2,Python,92,3,selected,25.0,Pune,2020.0,SQL,5.0,81.0,9.1,30.0,Yes,Web Developer
+C1436,female,MBA,12,"HTML, CSS, JavaScript",53,1,,22.0,Mysuru,2018.0,SQL,6.0,23.0,3.0,90.0,No,Full Stack Developer
+C1437,FEMALE,MCA,25,Machine Learning,61,9,Hire,26.0,Chennai,2021.0,Power BI,7.0,77.0,6.8,30.0,No,Java Developer
+C1438,,BCA,9,Data Analysis,68,2,Pending,30.0,Chennai,2023.0,Django,7.0,73.0,8.0,90.0,No,Python Developer
+C1439,Other,Bachelor's,5,SQL,,1,selected,21.0,Coimbatore,2020.0,,9.0,91.0,4.5,15.0,Yes,Java Developer
+C1020,Male,Diploma,3,"Python, Pandas",75,7,Rejected,,Coimbatore,2026.0,AWS,1.0,17.0,2.4,7.0,Yes,Web Developer
+C1441,Other,Diploma,5,"Python,SQL ",81,8,Pending,30.0,Kochi,2025.0,SQL,4.0,72.0,4.2,7.0,No,Web Developer
+C1442,Male,,0,SQL,93,3,Selected,24.0,Pune,2022.0,AWS,1.0,94.0,6.5,15.0,Yes,Web Developer
+C1443,Male,Diploma,-1,"Python,SQL",110,15,SELECTED,22.0,Mysuru,2026.0,"Python, SQL",1.0,77.0,6.1,60.0,No,Full Stack Developer
+C1444,,,1,SQL,,3,Reject,25.0,Coimbatore,2021.0,Python,3.0,19.0,3.8,15.0,No,Backend Developer
+C1445,Female,BCA,12,"Excel, SQL ",85,0,Pending,26.0,Chennai,2019.0,Power BI,6.0,83.0,10.2,60.0,Yes,Data Analyst
+C1446,Other,,2,Java,,9,On Hold,27.0,Chennai,2018.0,SQL,9.0,11.0,11.3,15.0,No,Java Developer
+C1447,Other,,7,Data Analysis,88,2,Selected,24.0,,2026.0,SQL,8.0,59.0,4.0,7.0,Yes,Software Tester
+C1448,,BCA,12,python,86,1,,30.0,Chennai,2026.0,,7.0,50.0,11.3,7.0,No,Java Developer
+C1449,Other,MCA,12,"HTML, CSS, JavaScript",95,10,selected,26.0,Mysuru,2024.0,Python,8.0,54.0,2.2,30.0,Yes,Java Developer
+C1450,Male,,1,Data Analysis,89,4,Rejected,23.0,Hyderabad,2018.0,Power BI,2.0,52.0,11.2,90.0,Yes,Data Analyst
+C1451,Female,B.Sc,8,"Excel, SQL",46,6,Reject,30.0,Bengaluru,2020.0,,9.0,4.0,11.5,90.0,Yes,Data Analyst
+C1452,,BCA,,"Excel, SQL",74,10,Hire,30.0,Hyderabad,2018.0,Excel,9.0,51.0,2.1,7.0,Yes,Backend Developer
+C1453,FEMALE,,12,"Python, Django",67,8,Pending,25.0,Mumbai,2018.0,Python,1.0,94.0,9.6,15.0,No,Backend Developer
+C1454,Other,B.Tech,,"Python, SQL",35,8,Hire,21.0,Pune,2020.0,Java,5.0,44.0,11.7,60.0,Yes,Backend Developer
+C1455,Male,B.Tech,6,"Python,SQL",90,1,On Hold,26.0,Delhi,2023.0,,9.0,28.0,11.1,30.0,Yes,Java Developer
+C1456,Male,MBA,7,"Excel, SQL",28,6,Reject,26.0,Mumbai,2018.0,Java,5.0,100.0,11.7,0.0,Yes,Python Developer
+C1457,Prefer not to say, B.E. ,10,"Python, SQL",96,3,Hire,22.0,Pune,2026.0,Django,9.0,,7.5,30.0,Yes,Data Analyst
+C1458,Male,M.Tech,4,"Python, SQL",96,4,Selected,27.0,Mumbai,2022.0,Django,10.0,49.0,2.8,0.0,Yes,Java Developer
+C1459, male,b.e.,25,Python,71,7,Rejected,29.0,Mysuru,2020.0,Excel,5.0,52.0,10.5,0.0,No,Web Developer
+C1460,FEMALE,BCA,1,Machine Learning,-5,6,selected,22.0,Pune,2022.0,SQL,1.0,48.0,8.1,30.0,No,Full Stack Developer
+C1461,Female, b.e. ,7,"Java, SQL",53,9,Not Selected,28.0,Chennai,2025.0,"Python, SQL",4.0,93.0,8.1,0.0,Yes,Full Stack Developer
+C1462,Prefer not to say,MBA,1,Machine Learning,,10,,22.0,Pune,2020.0,,3.0,43.0,6.2,15.0,No,Python Developer
+C1463,Prefer not to say,B.Tech,3,"Java, SQL",78,,Rejected,,Delhi,2018.0,SQL,5.0,98.0,7.7,30.0,No,Software Tester
+C1464,,M.Tech,10,Data Analysis,48,4,Hire,25.0,Chennai,2018.0,"Python, SQL",6.0,7.0,3.5,30.0,Yes,Java Developer
+C1465,female,B.Tech,,Data Analysis,51,7,On Hold,21.0, bengaluru ,2025.0,SQL ,5.0,74.0,9.4,15.0,No,Data Analyst
+C1466, male,BCA,7,,93,4,selected,30.0,Mumbai,2019.0,None,2.0,60.0,,0.0,Yes,Web Developer
+C1467,Female,B.Tech,4,Java,,6,,22.0,,2023.0,Power BI,4.0,25.0,9.3,60.0,Yes,Python Developer
+C1468,female,Bachelor's,0,Machine Learning,110,8,SELECTED,26.0,Hyderabad,2021.0,Java,7.0,,10.5,90.0,Yes,Java Developer
+C1469,Other,B.E.,25,Data Analysis ,85,4,Pending,22.0,Mysuru,2024.0,"Python, SQL",1.0,72.0,6.7,90.0,Yes,Web Developer
+C1470,Female,b.e.,7,"HTML, CSS, JavaScript",64,3,Not Selected,30.0,Bengaluru,2018.0,SQL,3.0,64.0,7.1,60.0,No,Data Analyst
+C1471,FEMALE,B.Sc,11,Data Analysis,46,2,SELECTED,28.0,Hyderabad,2026.0,"Python, SQL",9.0,62.0,5.1,15.0,No,Software Tester
+C1472, male,MBA,3,,98,3,Not Selected,29.0,Pune,2024.0,,1.0,6.0,11.7,90.0,Yes,Web Developer
+C1473,Female,MCA,5,python,43,10,selected,25.0,Coimbatore,2022.0,Excel,5.0,60.0,9.3,15.0,No,Backend Developer
+C1474,Male,B.Sc,,"Excel, SQL",45,3,,25.0,Coimbatore,2019.0,Power BI,3.0,99.0,5.7,0.0,No,Data Analyst
+C1475,Male,MBA,2,Java,60,5,On Hold,27.0,Chennai,2026.0,Django,2.0,2.0,3.7,90.0,No,Python Developer
+C1476,female,MCA,,"Python, Django",,2,Not Selected,28.0,Hyderabad,2020.0,Python,5.0,47.0,4.2,7.0,No,Web Developer
+C1477, male,,-1,Machine Learning,52,7,Hire,29.0,Bengaluru,2022.0,,6.0,50.0,6.6,90.0,No,Data Analyst
+C1478,Prefer not to say,B.Tech,2,"Excel, SQL",61,8,Reject,21.0,Mumbai,2021.0,,2.0,,11.4,15.0,Yes,Software Tester
+C1479,,B.Tech,4,Java,,6,On Hold,27.0,Pune,2020.0,Python,1.0,29.0,9.3,90.0,No,Python Developer
+C1480,FEMALE,Bachelor's,5,python,57,10,Not Selected,22.0,Mumbai,2021.0,None,2.0,48.0,4.2,30.0,No,Software Tester
+C1481,Other,BCA,11,"Python, Pandas",77,,SELECTED,23.0,Mumbai,2019.0,Excel,7.0,72.0,10.6,15.0,No,Full Stack Developer
+C1482,Prefer not to say,b.e.,11,Python,46,2,Selected,29.0,Kochi,2018.0,Excel,9.0,,5.8,7.0,No,Python Developer
+C1483,,MCA,12,"Python, SQL",30,10,selected,23.0,Coimbatore,2020.0,Python,2.0,81.0,10.5,90.0,Yes,Java Developer
+C1484,female,M.Tech,11,"Python,SQL",36,3,,28.0,Mumbai,2019.0,None,4.0,83.0,4.4,0.0,Yes,Backend Developer
+C1485,Prefer not to say,Diploma,-1,,90,9,Reject,25.0,Mumbai,2021.0,Excel,4.0,72.0,8.2,15.0,Yes,Web Developer
+C1486, male,B.Tech,6,"HTML, CSS, JavaScript",88,6,SELECTED,23.0,Mumbai,2025.0,None,4.0,65.0,11.3,15.0,Yes,Data Analyst
+C1487,Other,M.Tech,5,"Java, SQL",58,9,,24.0,Mumbai,2019.0,"Python, SQL",3.0,75.0,4.6,30.0,No,Data Analyst
+C1488,,MCA,8,Machine Learning,110,8,selected,26.0,Hyderabad,2018.0,AWS,1.0,79.0,8.9,7.0,No,Backend Developer
+C1489, male,B.Sc,12,,44,9,Pending,28.0,Hyderabad,2018.0,AWS,6.0,91.0,11.9,30.0,No,Full Stack Developer
+C1490,FEMALE,MCA,6,"Python, Pandas",74,9,Hire,27.0,Delhi,2022.0,,4.0,43.0,3.5,15.0,No,Java Developer
+C1491,Prefer not to say,,12,"HTML, CSS, JavaScript",28,5,SELECTED,30.0,Pune,2020.0,Django,4.0,46.0,2.9,7.0,No,Web Developer
+C1492,Male,B.Sc,11,Java,61,15,SELECTED,29.0,Coimbatore,2022.0,Java,3.0,64.0,8.7,7.0,No,Backend Developer
+C1493, male,M.Tech,2,"Excel, SQL",21,3,SELECTED,28.0,Chennai,2018.0,AWS,10.0,20.0,5.4,60.0,,Data Analyst
+C1494,Other,B.E.,12,"Java, SQL",67,1,Pending,27.0,Pune,2020.0,Excel,7.0,86.0,2.7,7.0,No,Data Analyst
+C1495,Male,B.Tech,1,python,,5,selected,23.0,Coimbatore,2021.0,None,5.0,78.0,6.8,7.0,No,Backend Developer
+C1496,Female,b.e.,25,"Python, Pandas",51,1,selected,25.0,Mumbai,2021.0,Python,3.0,64.0,9.5,30.0,Yes,Data Analyst
+C1497,Male,b.e.,7,Data Analysis,110,3,Rejected,22.0,Coimbatore,2022.0,,9.0,31.0,4.9,7.0,No,Backend Developer
+C1498, male,B.Tech,4,"Python, SQL",45,,Pending,24.0,Pune,2025.0,,9.0,35.0,5.4,15.0,No,Web Developer
+C1499,Male,B.E.,5,Machine Learning,55,7,,30.0,Mysuru,2022.0,AWS,1.0,44.0,10.5,7.0,No,Full Stack Developer
+C1500,female,Diploma,11,Python,31,8,Selected,25.0,Coimbatore,2025.0,AWS,10.0,67.0,7.2,,Yes,Python Developer
